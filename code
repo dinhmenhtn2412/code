@@ -1,0 +1,34 @@
+{
+  "body": {
+    "device": {
+      "id": "f173b2e62351dd28b692718364ea2618",
+      "kid": "012033e49419a0c0722bc202750c713eab6728fab8c5d94073e89526a4f5f24de1f80a",
+      "name": "My Windows Device",
+      "status": 1,
+      "type": "desktop"
+    },
+    "key": {
+      "host": "keybase.io",
+      "kid": "012033e49419a0c0722bc202750c713eab6728fab8c5d94073e89526a4f5f24de1f80a",
+      "uid": "dde89fdb375d62521aa4f8376f6c8f19",
+      "username": "dinhmenhtn2412"
+    },
+    "merkle_root": {
+      "ctime": 1568200063,
+      "hash": "c0bebd938931be152dc4e28f3992fdc57d7ce53a2ea3d87f4cf97bc8a6d9c3747bf856ac32e8677cf54eda463e357c8c474ab9d9e88702c0961046026a3643bb",
+      "hash_meta": "0f8a16ca8278b2844ffba54cf9fb9262c3cc067884aed9416befacf0aeb968d8",
+      "seqno": 6683668
+    },
+    "type": "eldest",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568200065,
+  "expire_in": 504576000,
+  "prev": null,
+  "seqno": 1,
+  "tag": "signature"
+}
